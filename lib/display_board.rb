@@ -10,3 +10,5 @@ def display_board
   puts separating_line
   puts row
 end
+
+display_board
